@@ -1,0 +1,18 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "TDD to create a function that gets sum of elements in array where each element can also be an array element",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sweta-pou/TDD.git"
+  },
+  "author": "Dzango",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}
