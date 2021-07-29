@@ -7,6 +7,7 @@ TDD to create a function that gets sum of elements in array where each element c
 - Git clone
 
 - Install dependencies:
+
   - npm install
 
 - npm test
